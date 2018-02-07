@@ -1,0 +1,17 @@
+{
+  "name": "migration-script",
+  "version": "1.0.0",
+  "description": "Migrates infos from two JSON objects into one database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2"
+  }
+}
